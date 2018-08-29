@@ -1,0 +1,32 @@
+{
+  "name": "absentface",
+  "version": "1.0.0",
+  "description": "face recognition based attendance",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umairriaz90/absentface.git"
+  },
+  "keywords": [
+    "face",
+    "recognition",
+    "rest",
+    "api",
+    "attendance",
+    "system"
+  ],
+  "author": "Umair Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umairriaz90/absentface/issues"
+  },
+  "homepage": "https://github.com/umairriaz90/absentface#readme"
+}
